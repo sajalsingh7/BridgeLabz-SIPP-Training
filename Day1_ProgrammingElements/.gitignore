@@ -1,0 +1,14 @@
+*.class
+# Ignore class files
+*.class
+
+# Ignore compiled jar files
+*.jar
+
+# Ignore IDE files (for example, from IntelliJ or Eclipse)
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+bin/
