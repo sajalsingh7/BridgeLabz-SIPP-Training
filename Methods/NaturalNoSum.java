@@ -7,6 +7,7 @@ int n=sc.nextInt();
 int sum=findSum(n);
 System.out.println("Sum of first n natural numbers is " + sum);
 }
+  
 
 public static int findSum(int n) {
 int sum=0;
