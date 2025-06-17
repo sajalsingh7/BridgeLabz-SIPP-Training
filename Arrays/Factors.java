@@ -5,6 +5,7 @@ Scanner sc=new Scanner(System.in);
 System.out.print("Enter a number: ");
 int num=sc.nextInt();
 
+  
 int maxFactor=10;
 int[] factors=new int[maxFactor];
 int index=0;
