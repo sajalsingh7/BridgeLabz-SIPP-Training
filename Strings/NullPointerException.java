@@ -20,3 +20,4 @@ public class NullPointerException {
         handleNullPointerException();
     }
 }
+
