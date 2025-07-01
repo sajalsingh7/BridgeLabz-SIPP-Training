@@ -6,7 +6,7 @@ Welcome to my training journey! This README tracks all my progress, assignments,
 
 ---
 
-## 📅 Day 1: 
+## Day 1: 
 - Scenario: You need to generate a report card for students based on subject-wise marks.
 Problem Requirements:
 -> Store subjects and marks using arrays.
@@ -25,7 +25,7 @@ Problem Requirements:
 
 ---
 
-## 📅 Day 2:
+## Day 2:
 - Flight Booking System
 Scenario: Simulate a basic flight booking system where users can search flights, book them,
 and view booking details.
@@ -54,7 +54,7 @@ Requirements:
 
 ---
 
-## 📅 Workshop Branch
+## Workshop Branch
 Work-in-progress material related to workshops is in this branch:
 -> https://github.com/sajalsingh7/BridgeLabz-SIPP-Training/tree/Workshop
 
